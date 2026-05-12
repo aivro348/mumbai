@@ -1,4 +1,6 @@
 "use client";
+// Force update for deployment - Infinity Smiles Premium Theme
+
 
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
